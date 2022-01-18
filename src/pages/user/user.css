@@ -13,7 +13,7 @@
   width: 80px;
   border: none;
   padding: 5px;
-  background-color: teal;
+  background-color: rgb(138, 245, 245);
   border-radius: 5px;
   cursor: pointer;
   color: white;
@@ -73,7 +73,7 @@
 .userShowTitle {
   font-size: 14px;
   font-weight: 600;
-  color: rgb(175, 170, 170);
+  color: rgb(199, 170, 170);
 }
 
 .userShowInfo{
